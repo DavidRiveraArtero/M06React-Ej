@@ -1,0 +1,27 @@
+#card{
+  width: 450px;
+  height: 20%;
+  background-color: rgb(97, 225, 241);
+  margin: 0% auto;
+ 
+  margin-top: 4%;
+}
+h1{
+  
+  width: 70%;
+  margin: 0% auto;
+}
+#nom{
+  width: 100%;
+  background-color: blue;
+}
+#image{
+  display: block;
+  margin-left: 60%;
+  width: 40%;
+}
+img{
+  width: 100%;
+  border-radius: 50%;
+  
+}
